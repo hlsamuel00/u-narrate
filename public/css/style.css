@@ -1,0 +1,48 @@
+html {
+    background-image: url("../images/login-background.jpg");
+    background-size: cover;
+}
+
+p{
+    margin: 10px 0 !important;
+}
+
+.login-container{
+    width: 400px;
+    margin-top: 50px;
+    text-align: center;
+}
+.card.grey.darken-1 {
+    background-color: #757575d0 !important;
+    color: white;
+}
+
+.row {
+    margin-bottom: 12px;
+}
+
+.email{
+    color: black;
+}
+
+.login-btn{
+    width: 67.25%;
+    border-radius: 10px;
+}
+
+.fa-small{
+    font-size: 16px !important;
+}
+
+.btn-float{
+    float: left;
+    margin-right: 10px;
+}
+
+.img-small{
+    width: 100px;
+}
+
+.card{
+    border-radius: 15px;
+}
